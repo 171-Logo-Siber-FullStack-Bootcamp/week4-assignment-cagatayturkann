@@ -14,8 +14,8 @@
   <div class="container h-100">
     <div class="d-flex h-100 text-center align-items-center">
       <div class="w-100 text-white">
-        <h1 class="display-3">Video Header</h1>
-        <p class="lead mb-0">Using HTML5 Video and Bootstrap</p>
+        <h1 class="display-3">Vue Sample Project</h1>
+        <p class="lead mb-0">Using Axios and Bootstrap</p>
       </div>
     </div>
   </div>
@@ -26,11 +26,11 @@
   <div class="container">
     <div class="row">
       <div class="col-md-8 mx-auto">
-        <p>The HTML5 video element uses an mp4 video as a source. Change the source video to add in your own background! The header text is vertically centered using flex utilities that are built into Bootstrap.</p>
-        <p>The overlay color and opacity can be changed by modifying the <code>background-color</code> and <code>opacity</code> properties of the <code>.overlay</code> class in the CSS.</p>
-        <p>Set the mobile fallback image in the CSS by changing the background image of the header element within the media query at the bottom of the CSS snippet.</p>
+        <p>This project developed by learning purposes. Main topic is VueJs</p>
+        <p>There will be another pages includes CRUD etc. process.</p>
+        <p>Users page -you can click the link on left panel- gets data from an api and shows in a table</p>
         <p class="mb-0">
-          Created by <a href="https://startbootstrap.com">Start Bootstrap</a>
+          Created by <a href="https://linkedin.com/cagatayturkann">Çağatay Türkan</a>
         </p>
       </div>
     </div>
